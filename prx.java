@@ -66,7 +66,7 @@ public class Dos implements Runnable {
             dos.sslCheckConnection(url);
         }
 
-        System.out.println("TUB3RS08_©");
+        System.out.println("TRHACKNON_©");
 
         System.out.print("Thread: ");
         String amount = in.nextLine();
